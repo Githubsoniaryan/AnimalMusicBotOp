@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🌹Sʏsᴛᴇᴍ🌹", url="https://t.me/Systemm30",
+                text="🌹Mᴀsᴏᴏᴍ🌹", url="https://t.me/MasoomSeMansoon",
             ),
             InlineKeyboardButton(
                 text="❤️‍🔥Aɴɪᴍᴀʟ❤️‍🔥", url="https://t.me/AnimalJanwarrrr",
@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/knight_society",
+                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/pallavi_sarkar2",
             ),
             InlineKeyboardButton(
                 text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
@@ -98,7 +98,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌹Sʏsᴛᴇᴍ🌹", url="https://t.me/Systemm30",
+                text="🌹Mᴀsᴏᴏᴍ🌹", url="https://t.me/MasoomSeMansoon",
             ),
             InlineKeyboardButton(
                 text="❤️‍🔥Aɴɪᴍᴀʟ❤️‍🔥", url="https://t.me/AnimalJanwarrrr",
@@ -106,7 +106,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/knight_society",
+                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/pallavi_sarkar2",
             ),
             InlineKeyboardButton(
                 text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
